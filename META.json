@@ -38,7 +38,7 @@
    "provides" : {
       "Catmandu::Importer::Purr" : {
          "file" : "lib/Catmandu/Importer/Purr.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -53,5 +53,5 @@
          "url" : "https://github.com/LibreCat/Catmandu-Importer-Purr"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

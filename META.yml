@@ -18,7 +18,7 @@ name: Catmandu-Importer-Purr
 provides:
   Catmandu::Importer::Purr:
     file: lib/Catmandu/Importer/Purr.pm
-    version: 0.01
+    version: 0.02
 requires:
   Catmandu: 0.8005
   MetaCPAN::API::Tiny: 1.131730
@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/LibreCat/Catmandu-Importer-Purr/issues
   license: http://dev.perl.org/licenses/
   repository: https://github.com/LibreCat/Catmandu-Importer-Purr
-version: 0.01
+version: 0.02
